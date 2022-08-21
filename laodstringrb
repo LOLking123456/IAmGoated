@@ -16,7 +16,7 @@ local CoreGui = game:GetService("StarterGui") -- Variable of StarterGui
 		Duration = 7, -- Set the duration to how much you want this to stay
 		-- More code in part 2
 	})
-    setclipboard("https://www.youtube.com/watch?v=oAr35PgasnY&t=73s")
-	toclipboard("https://www.youtube.com/watch?v=oAr35PgasnY&t=73s")
+    setclipboard("https://www.youtube.com/watch?v=uK5bI9jx_Ik&t=1s")
+	toclipboard("https://www.youtube.com/watch?v=uK5bI9jx_Ik&t=1s")
             end)
         
